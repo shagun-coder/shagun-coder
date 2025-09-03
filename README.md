@@ -1,12 +1,36 @@
-- 👋 Hi, I’m @shagun-coder
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there 👋, I'm Shagun Padha  
 
-<!---
-shagun-coder/shagun-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Computer Science Student @ GCET Jammu (Batch 2024–2028)  
+💻 Passionate about **C++, DSA, and Web Development**  
+🚀 Goal: Cracking placements at top tech companies.... 
+
+---
+
+## 🌱 Currently Learning
+- Data Structures & Algorithms (C++)
+- Web Development (HTML, CSS, JS)
+- Problem Solving (LeetCode, GFG)
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** C++, Python, JavaScript  
+- **Core:** Data Structures, Algorithms, OOP  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📌 Projects
+- 🔢 Matrix Operations in C++  
+- 🧮 Array & Vector Practice Problems  
+- 🌐 Portfolio Website  
+
+---
+
+## 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/shagun-padha-62a375338)  
+- [GitHub](https://github.com/shagun-padha)  
+
+---
+
+⭐️ *“Consistency beats talent when talent doesn’t work hard.”*
