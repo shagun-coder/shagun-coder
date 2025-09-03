@@ -1,9 +1,8 @@
 # Hi there 👋, I'm Shagun Padha  
 
 🎓 Computer Science Student @ GCET Jammu (Batch 2024–2028)  
-💻 Passionate about **C++, DSA, and Web Development**  
-🚀 Goal: Cracking placements at top tech companies.... 
-
+💻 I enjoy working with **C++, DSA, and Web Development**  
+🚀 Aspiring to crack placements at top tech companies ....
 ---
 
 ## 🌱 Currently Learning
