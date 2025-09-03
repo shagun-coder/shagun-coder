@@ -1,14 +1,15 @@
 # Hi there 👋, I'm Shagun Padha  
 
 🎓 Computer Science Student @ GCET Jammu (Batch 2024–2028)  
-💻 I enjoy working with **C++, DSA, and Web Development**  
-🚀 Aspiring to crack placements at top tech companies ....
+💻 Learning **C++, Data Structures & Algorithms, and Web Development**  
+📚 Solving problems on **LeetCode** and **GeeksforGeeks**  
+
 ---
 
 ## 🌱 Currently Learning
 - Data Structures & Algorithms (C++)
 - Web Development (HTML, CSS, JS)
-- Problem Solving (LeetCode, GFG)
+- Problem Solving & Competitive Programming  
 
 ---
 
@@ -28,8 +29,6 @@
 
 ## 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/shagun-padha-62a375338)  
-- [GitHub](https://github.com/shagun-padha)  
+- [GitHub](https://github.com/shagun-coder)  
 
----
 
-⭐️ *“Consistency beats talent when talent doesn’t work hard.”*
